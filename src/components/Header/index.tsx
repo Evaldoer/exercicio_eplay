@@ -14,7 +14,7 @@ const Header = () => (
       <nav>
         <Links>
           <LinkItem>
-            <Link to="/categories">Categories</Link>
+            <Link to="/categories">Categorias</Link>
           </LinkItem>
           <LinkItem>
             <a href="#">Novidades</a>
